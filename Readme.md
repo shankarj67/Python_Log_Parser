@@ -34,8 +34,8 @@ pip install pandas
 
 ## Running the tests
 
-To run the program, Collect the access.log file from your server.
-add the location of access.log file in server_parse.py.
+To run the program, Collect the access.log file from your server,
+add the location of access.log file in server_parse.py and
 Run the server_parse.py with any editor.
 
 
