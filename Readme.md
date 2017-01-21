@@ -44,9 +44,10 @@ using command line
 python server_parse.py
 ```
 
-clone this repository and give the topic name and you are done.
+clone this repository and load the log file and you are done.
 ```
-git clone https://github.com/shankarj67/server_parse.git
+git clone https://github.com/shankarj67/Python_Log_Parser.git
+
 ```
 
 
